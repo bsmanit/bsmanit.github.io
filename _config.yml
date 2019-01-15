@@ -1,0 +1,57 @@
+title: Random Things
+description: Random Projects and blogs 
+author: Bhawani Singh
+github: https://github.com/bsmanit
+about: I am Data Analyst at United Health Group(Optum). 
+disqus_shortname: ds
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/singh-bhawani"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/bsmanit"
+
+share:
+  twitter_username: 
+  fb_appid: 
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://bsmanit.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
