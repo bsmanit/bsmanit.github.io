@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reverse Bit"
-date:   2016-05-22 04:04:23 +0700
+date:   -
 categories: [python]
 ---
 
