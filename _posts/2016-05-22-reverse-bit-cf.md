@@ -5,8 +5,14 @@ date:   -
 categories: [python]
 ---
 
-**Restaurant Revenue Prediction**
+Author Question: **Giappi**
 
-**Solution**
+I have an integer number, which I want to reverse by following steps:
 
-Linear Model : Ridge | RMSE : 1712851.32 (Private Leaderboard : rank 1).
+1. Convert the number into binary string.
+2. Reverse binary string.
+3. Convert the reversed binary string back to integer.
+
+Can you help me write a function to do it ?
+
+**Example**
