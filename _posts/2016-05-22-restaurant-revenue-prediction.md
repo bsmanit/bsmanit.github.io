@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Restaurant Revenue Prediction"
-date:   -
+date:   2018-04-18 00:00:00 +0700
 categories: [python]
 ---
 
