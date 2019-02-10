@@ -10,3 +10,5 @@ categories: [python]
 Linear Model : Ridge | RMSE : 1712851.32 (Private Leaderboard : rank 1) 
 
 
+
+
